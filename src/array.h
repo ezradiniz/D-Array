@@ -17,10 +17,10 @@ void array_free(array_t *this);
 
 #define INITIAL_CAPACITY 50
 
-#define array_for_each(item, array) \
+/*#define array_for_each(item, array) \
 	int i = 0; \
 	item = array->data[0]; \
 	for (i = 0; i<array->length-1; item = array->data[i], i++) \
-		 
+*/		 
 
 #endif
