@@ -1,2 +1,2 @@
 # D-Array
-My dynamic array in C.
+My small library of dynamic array.
